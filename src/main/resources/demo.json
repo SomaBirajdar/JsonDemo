@@ -1,0 +1,24 @@
+[{
+  "firstName": "Sam",
+  "lastName": "patil",
+  "city": "Delhi"
+},{
+  "firstName": "Mahesh",
+  "lastName": "kothe",
+  "city": "Pune"
+},
+  {
+    "firstName": "Kalyani",
+    "lastName": "Shikhare",
+    "city": "Nanded"
+  },
+  {
+    "firstName": "swati",
+    "lastName": "Shikhare",
+    "city": "Pune"
+  },{
+  "firstName": "Kalyani",
+  "lastName": "Shikhare",
+  "city": "Pune"
+}
+]
